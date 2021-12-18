@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PathNode
+  - GridNode
+  - s1d2
+  - s1d1
+  - s1d4
+  - s1d3
+  - s1d5
+  - s1m5
+  - s1m6
+  - s1m7
+  - s1k1
+  - s1k2
+  - s1k4
+  - s1k3
+  - s1k5
+  - s1m1
+  - s1m2
+  - s1m3
+  - s1m4
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - card
+  - Volume
+  - Maed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
