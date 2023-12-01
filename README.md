@@ -14,13 +14,17 @@ Welcome to Book-Towers, a thrilling 3D strategy game developed in Unity! In this
 
 - **Tower Offense:** Launch calculated attacks on the enemy's tower to secure victory. Balancing offense and defense is essential for success.
 
+## Just Play
+
+If you want only try this game you can download in [itch.io](https://tradocks.itch.io/book-tower)
+
 ## Getting Started
 
 Follow these steps to set up and run Book-Towers on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Book-Towers.git
+   git clone https://github.com/Juanpalai/Book-Towers.git
    ```
 
 2. **Open in Unity:**
