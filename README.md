@@ -38,11 +38,11 @@ Follow these steps to set up and run Book-Towers on your local machine:
 
 ## Contributing
 
-We welcome contributions to make Book-Towers even more engaging and polished. If you have ideas, bug fixes, or new features to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to make Book-Towers even more engaging and polished. If you have ideas, bug fixes, or new features to contribute.
 
 ## Issues
 
-If you encounter any issues while playing or developing Book-Towers, please report them on our [issue tracker](https://github.com/your-username/Book-Towers/issues).
+If you encounter any issues while playing or developing Book-Towers, please report them on our [issue tracker](https://github.com/Juanpalai/Book-Towers/issues).
 
 ## License
 
