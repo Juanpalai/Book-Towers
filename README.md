@@ -2,6 +2,11 @@
 
 Welcome to Book-Towers, a thrilling 3D strategy game developed in Unity! In this game, players engage in strategic battles against a formidable AI opponent, utilizing mana to summon a variety of creatures. The primary objective is to carefully deploy these creatures to defend your tower while strategically planning attacks to destroy your enemy's tower.
 
+
+<img src="https://cdn.glitch.me/4cca95d7-5082-4e5c-8e1f-aea9cec38165/atacksong.jpg" alt="Airism Unreal Screenshot" width="400" height="200">
+<img src="https://cdn.glitch.me/4cca95d7-5082-4e5c-8e1f-aea9cec38165/BookTower.jpg" alt="Autoware Screenshot" width="400" height="200">
+
+
 ## Features
 
 - **3D Strategy Gameplay:** Immerse yourself in a captivating 3D environment where strategic decisions play a crucial role in the outcome of the game.
